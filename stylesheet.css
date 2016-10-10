@@ -1,0 +1,16 @@
+/*********************************************************
+-------------------------- Haze --------------------------
+Design: apopagasm
+CSS: Exanurous
+Build: 39
+Bug Reports: forums.php?action=viewthread&threadid=189200
+Style derived from Gazelle Postmod
+*********************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
+@import url(https://hosting.ivanozerov.com/haze/layout-grayscale.css);
+@import url(https://hosting.ivanozerov.com/haze/blur.css);
+
+/* Background Image */
+body          {background-image: url('http://i.imgur.com/TayuJN9.jpg');}
+#extra3:after {background-image: url('http://i.imgur.com/TayuJN9.jpg');}
